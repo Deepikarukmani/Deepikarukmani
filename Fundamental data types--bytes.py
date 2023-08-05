@@ -161,7 +161,7 @@ print(type(values))
 
 print(values)
 
-#print(values) #--------> ipadi kudutha random values ah varum  eg: b'ZPF<C' so athuku kela iruka mathiri type casting panni than kudukanum
+#print(values) #--------> ipadi kudutha random values ah varum  eg: b'ZPF<C' so athuku mela iruka mathiri type casting panni than kudukanum
 
 print(values[0])      
 
